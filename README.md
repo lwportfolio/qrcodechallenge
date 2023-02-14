@@ -33,11 +33,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-When I used <section></section> instead of <div></div> for each area that needed to be called out in the CSS, my CSS styling broke and would not work. Using <div> tags instead fixed it and the CSS was properly applied.
+When I used section instead of div tags for each area that needed to be called out in the CSS, my CSS styling broke and would not work. Using div tags instead fixed it and the CSS was properly applied.
 
 ### Continued development
 
-Figuring when to use <section> tags vs when to use <div> tags and how to target those items when styling. I'm also interested in exploring how to create projects such as this one in an IDE like VSCode.
+Figuring when to use section tags vs when to use div tags and how to target those items when styling. I'm also interested in exploring how to create projects such as this one in an IDE like VSCode.
 
 ### Useful resources
 
